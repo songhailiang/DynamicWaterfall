@@ -1,5 +1,5 @@
 # DynamicWaterfall
-一个瀑布流例子，使用UICollectionView实现，用到了CHTCollectionViewWaterfallLayout和SDWebImage这两个类库。
+一个瀑布流例子，使用UICollectionView实现，用到了 [CHTCollectionViewWaterfallLayout] 和SDWebImage这两个类库。
 # 实现的功能：
 1、使用SDWebImage从网络下载并缓存图片。<br>
 2、动态更改UICollectionViewCell的尺寸（依据网络图片大小）。<br>
