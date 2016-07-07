@@ -6,6 +6,8 @@
 3、支持屏幕旋转（demo里实现了竖屏显示2列，横屏显示3列）
 # 说明
 此demo只是给出了一个动态瀑布流的思路和实现方案，并不是一个可以直接拿过来使用的类库，UI展示可根据自己的需求自定义。
+
+注：代码下载下来需要先执行一下pod install来下载第三方库，然后打开xcworkspace文件
 # 效果图
 
 <img src="https://github.com/songhailiang/DynamicWaterfall/blob/master/ScreenShots/waterfall.gif" width=300 />
